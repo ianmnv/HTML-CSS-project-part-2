@@ -1,2 +1,2 @@
 # HTML-CSS-project-part-2
-Improving the page I already had, with little more knowledge.
+In this page, I implemented dimentions, type of boxes like inline, block and inline-block elements, absolute positioning, pseudo-elements and floats.
